@@ -18,7 +18,7 @@ I am currently a web designer with more than 2 years in the development field, I
 
 <img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">Php/Nodejs
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Ivan Blednov's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Gennod/Gennod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
