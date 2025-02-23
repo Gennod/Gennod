@@ -10,13 +10,10 @@ I am currently a web designer with more than 2 years in the development field, I
 
 <img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">StyledComponents/TailwindCss
 
-<img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">React
+<img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">React, Redux, Next
 
-<img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">Figma
+<img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">Firebase
 
-<img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">Mysql
-
-<img align="left" width="23px" src="https://thumbs.dreamstime.com/b/controle-el-icono-vector-de-la-marca-cotejo-s-mbolo-aprobado-aceptable-compruebe-muestra-del-bot-n-se-al-checkpoint-mejor-150871913.jpg">Php/Nodejs
 
 [![Ivan Blednov's GitHub stats](https://github-readme-stats.vercel.app/api?username=gennod)](https://github.com/gennod/github-readme-stats)
 
