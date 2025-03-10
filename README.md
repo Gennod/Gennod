@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://gennod-portfolio.netlify.app/](https://gennod-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://gennod-portfolio.netlify.app/](https://gennod-portfolio-new.netlify.app/)
 
 - 📫 How to reach me **oracll90@gmail.com**
 
