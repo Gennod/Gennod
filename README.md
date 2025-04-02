@@ -21,7 +21,3 @@
 ![react](https://img.shields.io/badge/-NPM-700CF5?style=for-the-badge&logo=npm&logoColor=CB3837&color=333)
 ![react](https://img.shields.io/badge/-vite-700CF5?style=for-the-badge&logo=vite&logoColor=646CFF&color=333)
 ![react](https://img.shields.io/badge/-git-700CF5?style=for-the-badge&logo=git&logoColor=F05032&color=333)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gennod&show_icons=true&locale=en&layout=compact" alt="gennod" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gennod&show_icons=true&locale=en" alt="gennod" /></p>
