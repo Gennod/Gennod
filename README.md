@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Russia</h3>
 <p align="center">I am currently a web designer with more than 2 years in the development field, I graduated from the Faculty of Applied Mathematics, I am currently studying for a master's degree in the same field</p>
 
-- 🔭 I’m currently working on [shopco](https://github.com/Gennod/ibb-shopco)
+- 🔭 I’m currently working on [BankDash](https://github.com/Gennod/ibb-bank)
 
 - 🌱 I’m currently learning **Next, Typescript**
 
